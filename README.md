@@ -1,7 +1,7 @@
-# custom-pc-builder-site
+# Custom PC Builder Site
 This is a proof of concept site for an online storefront that sells custom PCs to the user's liking.
 
-# license
+# License
 Copyright (C) 2023-2024 Matthew Kalafut <mkalafut91@gmail.com>
 
 This file is part of the PC Builder Site project.
